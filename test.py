@@ -1,0 +1,1 @@
+print("abd il idris habes iblis fil kis")
